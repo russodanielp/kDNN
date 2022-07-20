@@ -1,0 +1,44 @@
+Assay Name,Format Type,Function Type,Biological Process Target,Level
+NVS_NR_cAR,Biochemical,Binding,Receptor binding,1
+NVS_NR_hAR,Biochemical,Binding,Receptor binding,1
+NVS_NR_hGR,Biochemical,Binding,Receptor binding,1
+NVS_NR_hPR,Biochemical,Binding,Receptor binding,1
+NVS_NR_rAR,Biochemical,Binding,Receptor binding,1
+OT_FXR_FXRSRC1_0480,Cell-based,Binding,Protein stabilization,2
+OT_PPARg_PPARgSRC1_1440,Cell-based,Binding,Protein stabilization,2
+OT_FXR_FXRSRC1_1440,Cell-based,Binding,Protein stabilization,2
+OT_NURR1_NURR1RXRa_0480,Cell-based,Binding,Protein stabilization,2
+OT_NURR1_NURR1RXRa_1440,Cell-based,Binding,Protein stabilization,2
+OT_PPARg_PPARgSRC1_0480,Cell-based,Binding,Protein stabilization,2
+OT_AR_ARELUC_AG_1440,Cell-based,Reporter gene,Regulation of gene expression,3
+BSK_3C_HLADR_down,Cell-based,Signaling,Regulation of gene expression,3
+BSK_3C_Vis_down,Cell-based,Signaling,Regulation of gene expression,3
+BSK_3C_uPAR_down,Cell-based,Signaling,Regulation of gene expression,3
+ATG_CAR_TRANS_up,Cell-based,Reporter gene,Regulation of transcription factor activity,4
+ATG_E2F_CIS_dn,Cell-based,Reporter gene,Regulation of transcription factor activity,4
+ATG_EGR_CIS_up,Cell-based,Reporter gene,Regulation of transcription factor activity,4
+ATG_ERa_TRANS_dn,Cell-based,Reporter gene,Regulation of transcription factor activity,4
+ATG_FXR_TRANS_dn,Cell-based,Reporter gene,Regulation of transcription factor activity,4
+ATG_GLI_CIS_dn,Cell-based,Reporter gene,Regulation of transcription factor activity,4
+ATG_GRE_CIS_up,Cell-based,Reporter gene,Regulation of transcription factor activity,4
+ATG_LXRa_TRANS_dn,Cell-based,Reporter gene,Regulation of transcription factor activity,4
+ATG_LXRa_TRANS_up,Cell-based,Reporter gene,Regulation of transcription factor activity,4
+ATG_NRF1_CIS_up,Cell-based,Reporter gene,Regulation of transcription factor activity,4
+ATG_NURR1_TRANS_up,Cell-based,Reporter gene,Regulation of transcription factor activity,4
+ATG_Sox_CIS_dn,Cell-based,Reporter gene,Regulation of transcription factor activity,4
+ATG_Sox_CIS_up,Cell-based,Reporter gene,Regulation of transcription factor activity,4
+ATG_Sp1_CIS_up,Cell-based,Reporter gene,Regulation of transcription factor activity,4
+ATG_TGFb_CIS_up,Cell-based,Reporter gene,Regulation of transcription factor activity,4
+TOX21_ARE_BLA_agonist_ratio,Cell-based,Reporter gene,Regulation of transcription factor activity,4
+TOX21_RAR_LUC_Antagonist,Cell-based,Reporter gene,Regulation of transcription factor activity,4
+ATG_LXRb_TRANS_dn,Cell-based,Reporter gene,Regulation of transcription factor activity,4
+ATG_CAR_TRANS_dn,Cell-based,Reporter gene,Regulation of transcription factor activity,4
+ATG_BRE_CIS_dn,Cell-based,Reporter gene,Regulation of transcription factor activity,4
+ATG_E2F_CIS_up,Cell-based,Reporter gene,Regulation of transcription factor activity,4
+TOX21_TSHR_Agonist_ratio,Cell-based,Signaling,Regulation of transcription factor activity,4
+TOX21_CAR_Agonist_viabillity,Cell-based,Viability,Cell proliferation,5
+TOX21_PR_BLA_Agonist_viability,Cell-based,Viability,Cell proliferation,5
+TOX21_RT_HEPG2_FLO_40hr_ctrl_viability,Cell-based,Viability,Cell proliferation,5
+TOX21_AhR_LUC_Agonist_viability,Cell-based,Viability,Cell proliferation,5
+TOX21_ERR_viability,Cell-based,Viability,Cell proliferation,5
+TOX21_p53_BLA_p3_viability,Cell-based,Viability,Cell proliferation,5
